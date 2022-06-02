@@ -1,2 +1,2 @@
 # radon
-Backend cohort May 2022 - Sep 2022
+Backend Cohort, May 2022-Sep 2022
