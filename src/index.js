@@ -7,7 +7,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-B
+
 mongoose.connect("mongodb+srv://Pradeep-Gupta:faptismld@cluster0.imx3g.mongodb.net/Pradeep191000-DB?retryWrites=true&w=majority", {
         useNewUrlParser: true
     })
